@@ -56,14 +56,18 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
 
 **JAVASCRIPT COURSES**
+
 &nbsp;&nbsp;&nbsp;&nbsp;[RSSchool JS/Front-end Course]() | [Certificate]()
 
 **REACT COURSES**
+
 &nbsp;&nbsp;&nbsp;&nbsp;[learn.javascript.ru]() | [Certificate]()
 
 **JAVASCRIPT COURSES**
+
 &nbsp;&nbsp;&nbsp;&nbsp;[learn.javascript.ru]() | [Certificate]()
 
 **MASTER'S DEGREE**
+
 &nbsp;&nbsp;&nbsp;&nbsp;Manufacturing Engineer Wood Working
 &nbsp;&nbsp;&nbsp;&nbsp;Belarusian State Technological University
