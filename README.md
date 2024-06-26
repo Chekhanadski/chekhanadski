@@ -55,15 +55,15 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 ## Education
 
 
-**JAVASCRIPT COURSES**
-- [RSSchool JS/Front-end Course]() | [Certificate]()
-- [learn.javascript.ru]() | [Certificate]()
-**REACT COURSES**
-- [learn.javascript.ru]() | [Certificate]()
+- **JAVASCRIPT COURSES**
+  - [RSSchool JS/Front-end Course]() | [Certificate]()
+  - [learn.javascript.ru]() | [Certificate]()
 
-**JAVASCRIPT COURSES**
-- [learn.javascript.ru]() | [Certificate]()
+- **REACT COURSES**
+  - [learn.javascript.ru]() | [Certificate]()
 
-**MASTER'S DEGREE**
-&nbsp;&nbsp;&nbsp;&nbsp;Manufacturing Engineer Wood Working
-&nbsp;&nbsp;&nbsp;&nbsp;Belarusian State Technological University
+- **JAVASCRIPT COURSES**
+  - [learn.javascript.ru]() | [Certificate]()
+
+- **MASTER'S DEGREE**
+  - Manufacturing Engineer Wood Working - Belarusian State Technological University
