@@ -1,4 +1,4 @@
-![image](https://github.com/Chekhanadski/chekhanadski/assets/115250960/f2912248-6067-428e-922a-93cc2cbb7dc2)
+![image](https://github.com/Chekhanadski/chekhanadski/assets/115250960/79bd0605-cf9c-4cc2-bf74-049fc7c28127)
 
 # Hey, I'm Andrei!
 
