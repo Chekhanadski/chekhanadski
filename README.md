@@ -1,3 +1,5 @@
+![image](https://github.com/Chekhanadski/chekhanadski/assets/115250960/de45c85c-1e7d-4e49-9f6a-1b0c2a3476ac)
+
 # Hey, I'm Andrei!
 
 ## Front-end Developer
