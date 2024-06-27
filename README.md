@@ -64,8 +64,5 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 - **REACT COURSES**
   - [learn.javascript.ru]() | [Certificate]()
 
-- **JAVASCRIPT COURSES**
-  - [learn.javascript.ru]() | [Certificate]()
-
 - **MASTER'S DEGREE**
   - Manufacturing Engineer Wood Working - Belarusian State Technological University
