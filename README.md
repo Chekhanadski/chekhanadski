@@ -19,12 +19,12 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
   - [Game "Nonograms"](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/nonograms/) | [source code](https://github.com/Chekhanadski/game-nonograms)
   - [Game "Hungman"](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/hangman/) | [source code](https://github.com/Chekhanadski/game-hangman)
 - **2023**
-  - Cafe App "Coffee House" | source code
-  - App "ToDoList" | source code
-  - App "Food and Drinks" | source code
-  - Restaurant App "Bangkok Express" | source code
+  - [Cafe "Coffee House"](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/coffee-house/) | [source code](https://github.com/Chekhanadski/cafe-coffee-house)
+  - [App "ToDoList"](https://chekhanadski.github.io/Project_ToDoList) | [source code](https://github.com/Chekhanadski/Project_ToDoList)
+  - App "Food and Drinks" | [source code](https://github.com/Chekhanadski/Delivery_app_react)
+  - [Restaurant App "Bangkok Express"](https://bangkok-express-shop.netlify.app/) | [source code](https://github.com/Chekhanadski/Restaurant_app_JavaScript)
 - **2022**
-  - Web Site "Czestochowa" | source code
+  - [Web Site "Czestochowa"](https://chekhanadski.github.io/Czestochowa_website_HTML-CSS/index.html) | [source code](https://github.com/Chekhanadski/Czestochowa_website_HTML-CSS)
 
 ## Skills
 
