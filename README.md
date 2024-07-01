@@ -6,8 +6,8 @@
 
 As an aspiring front-end developer, I am passionate about creating beautiful and intuitive web applications. With a background in HTML, CSS, JavaScript and React, I have experience building responsive and mobile-first websites. I am excited to learn new technologies and work with designers and developers to bring ideas to life. I'd like to join a collaborative team that values creativity, innovation, and continuous learning.
 
-- 🌍  I'm based in Gdańsk
-- ✉️  You can contact me at [chekhanadski@gmail.com](mailto:chekhanadski@gmail.com)
+- 🌍 I'm based in Gdańsk
+- ✉️ You can contact me at [chekhanadski@gmail.com](mailto:chekhanadski@gmail.com)
 - 📄 You can view my CV [here](https://drive.google.com/file/d/1KatLnk45aKPP82J-WGmu_wd-6MAFYw7S/view?usp=drive_link)
 
 ## Education
