@@ -13,11 +13,11 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
 - **2024**
   - [Shop App "Exclusive"](https://shop-exclusive.netlify.app/) | [source code](https://github.com/Chekhanadski/ecommerce-app)
-  - Chat "Fun Chat" | source code
-  - Game "Async Race" | source code
-  - Game "RSS Puzzle" | source code
-  - Game "Nonograms" | source code
-  - Game "Hungman" | source code
+  - Chat "Fun Chat" | [source code](https://github.com/Chekhanadski/chat-fun-chat)
+  - Game "Async Race" | [source code](https://github.com/Chekhanadski/game-acync-race)
+  - [Game "RSS Puzzle"](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/RSS-Puzzle/#/login) | [source code](https://github.com/Chekhanadski/game-rss-puzzle)
+  - [Game "Nonograms"](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/nonograms/) | [source code](https://github.com/Chekhanadski/game-nonograms)
+  - [Game "Hungman"](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/hangman/) | [source code](https://github.com/Chekhanadski/game-hangman)
 - **2023**
   - Cafe App "Coffee House" | source code
   - App "ToDoList" | source code
