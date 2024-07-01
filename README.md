@@ -13,11 +13,11 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
 
 - **JAVASCRIPT COURSES**
-  - [RSSchool JS/Front-end Course]() | [Certificate]()
-  - [learn.javascript.ru]() | [Certificate]()
+  - [RSSchool JS/Front-end Course](https://rs.school/courses/javascript-ru) | [Certificate]()
+  - [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) | [Certificate](https://learn.javascript.ru/courses/jsbasic-20230116-2/chekhanadski/en/certificate.jpg)
 
 - **REACT COURSES**
-  - [learn.javascript.ru]() | [Certificate]()
+  - [learn.javascript.ru](https://learn.javascript.ru/courses/react) | [Certificate](https://learn.javascript.ru/courses/react-20230330/chekhanadski/en/certificate.jpg)
 
 - **MASTER'S DEGREE**
   - Manufacturing Engineer Wood Working - Belarusian State Technological University
