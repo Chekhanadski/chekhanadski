@@ -9,6 +9,20 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 - 🌍  I'm based in Gdańsk
 - ✉️  You can contact me at [chekhanadski@gmail.com](mailto:chekhanadski@gmail.com)
 
+## Education
+
+
+- **JAVASCRIPT COURSES**
+  - [RSSchool JS/Front-end Course]() | [Certificate]()
+  - [learn.javascript.ru]() | [Certificate]()
+
+- **REACT COURSES**
+  - [learn.javascript.ru]() | [Certificate]()
+
+- **MASTER'S DEGREE**
+  - Manufacturing Engineer Wood Working - Belarusian State Technological University
+
+
 ## Recent projects
 
 - **2024**
@@ -53,16 +67,3 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 - ⚒️ Hard working
 - 🤝🏼 Team player
 - 🤓 Flexible
-
-## Education
-
-
-- **JAVASCRIPT COURSES**
-  - [RSSchool JS/Front-end Course]() | [Certificate]()
-  - [learn.javascript.ru]() | [Certificate]()
-
-- **REACT COURSES**
-  - [learn.javascript.ru]() | [Certificate]()
-
-- **MASTER'S DEGREE**
-  - Manufacturing Engineer Wood Working - Belarusian State Technological University
