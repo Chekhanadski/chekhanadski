@@ -8,6 +8,7 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
 - 🌍  I'm based in Gdańsk
 - ✉️  You can contact me at [chekhanadski@gmail.com](mailto:chekhanadski@gmail.com)
+- 📄 You can view my CV [here](https://drive.google.com/file/d/1KatLnk45aKPP82J-WGmu_wd-6MAFYw7S/view?usp=drive_link)
 
 ## Education
 
