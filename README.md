@@ -12,7 +12,7 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 ## Recent projects
 
 - **2024**
-  - Shop App "Exclusive" | source code
+  - [Shop App "Exclusive"](https://shop-exclusive.netlify.app/) | [source code](https://github.com/Chekhanadski/ecommerce-app)
   - Chat "Fun Chat" | source code
   - Game "Async Race" | source code
   - Game "RSS Puzzle" | source code
