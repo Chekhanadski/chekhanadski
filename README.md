@@ -14,7 +14,7 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
 
 - **JAVASCRIPT COURSES**
-  - [RSSchool JS/Front-end Course](https://rs.school/courses/javascript-ru) | [Certificate]()
+  - [RSSchool JS/Front-end Course](https://rs.school/courses/javascript-ru) | [Certificate](https://app.rs.school/certificate/y1vlcm3c)
   - [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) | [Certificate](https://learn.javascript.ru/courses/jsbasic-20230116-2/chekhanadski/en/certificate.jpg)
 
 - **REACT COURSES**
