@@ -27,7 +27,7 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 ## Recent projects
 
 - **2024**
-  - [Shop App "Exclusive"](https://shop-exclusive.netlify.app/) | [source code](https://github.com/Chekhanadski/ecommerce-app)
+  - Shop App "Exclusive" | [source code](https://github.com/Chekhanadski/ecommerce-app)
   - Chat "Fun Chat" | [source code](https://github.com/Chekhanadski/chat-fun-chat)
   - Game "Async Race" | [source code](https://github.com/Chekhanadski/game-acync-race)
   - [Game "RSS Puzzle"](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/RSS-Puzzle/#/login) | [source code](https://github.com/Chekhanadski/game-rss-puzzle)
